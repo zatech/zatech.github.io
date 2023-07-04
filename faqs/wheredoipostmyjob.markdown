@@ -2,13 +2,13 @@
 layout: page
 title: Where do I post my job opportunity?
 permalink: /faqs/wheredoipostmyjob
+isJobposting: true
 ---
 
 Follow this helpful flow chart to see where you should post your job.
 
 ![Where should I post my job?](/images/faq/where-should-i-post-my-job.jpg)
-
-<br>
+{: .img-bottom-margin}
 
 If you're not sure how to post your job, check out:
 

@@ -2,6 +2,7 @@
 layout: page
 title: How do I post a job opportunity?
 permalink: /faqs/howtojobpost
+isJobposting: true
 ---
 
 Firstly make sure that both:
@@ -13,5 +14,6 @@ Either go to the home page of the app inside slack and click on the *Post a Job*
 
 [jobs.zatech.co.za](https://jobs.zatech.co.za)
 
+Once the form has been submitted a request will be sent to the approval team.
 
 {% include_relative jobposting-footer.markdown %}
